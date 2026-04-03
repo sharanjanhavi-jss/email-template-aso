@@ -1,2 +1,2 @@
 # email-template-aso
-Responsive HTML email templates and SFMC assets
+Responsive HTML email template and listrak assets
